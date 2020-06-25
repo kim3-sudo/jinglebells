@@ -1,4 +1,4 @@
-# Jingle Bells
+# Jingle Bells, Batman Smells
 
 On June 22, 2020, [Tom Scott](https://www.youtube.com/user/enyay) published a video titled [I asked 64,182 People About "Jingle Bells, Batman Smells". Here's What I Found Out.](https://youtu.be/V5u9JSnAAU4). He's also released the dataset, which he's begun to clean for his purposes. I've further cleaned it, encoded the countries as a numerical variable, and prepared it as a SQL, CSV, and Excel file, for your viewing and data analysis pleasure.
 
@@ -12,4 +12,4 @@ The MySQL file is compatible with MySQL 5 or later. It might be compatible with 
 
 The Microsoft Excel file is provided only for your convenience, but it is not officially supported. Thus, it is entirely community supported. You may contribute fixes to the file.
 
-If you need variable descriptors, please see the VARIABLES.md document. It contains most of the encodings and variables.
+If you need variable descriptors, please see the [VARIABLES.md](https://github.com/kim3-sudo/jinglebells/blob/master/VARIABLES.md) document. It contains most of the encodings and variables.
