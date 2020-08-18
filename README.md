@@ -2,7 +2,7 @@
 
 On June 22, 2020, [Tom Scott](https://www.youtube.com/user/enyay) published a video titled [I asked 64,182 People About "Jingle Bells, Batman Smells". Here's What I Found Out.](https://youtu.be/V5u9JSnAAU4). He's also released the dataset, which he's begun to clean for his purposes. I've further cleaned it, encoded the countries as a numerical variable, and prepared it as a SQL, CSV, and Excel file, for your viewing and data analysis pleasure.
 
-The CSV file is the most widely-compatible dataset. It is compatible with base R, Excel, Microsoft SQL Server Management Studio, MySQL and phpMyAdmin, Python pandas (and numpy) and I'm sure many more pieces of analysis software. It's probably (but not guaranteed) to be compatible with SAS, Stata, Matlab, and other software.
+The generic CSV file is the most widely-compatible dataset. It is compatible with base R, Excel, Microsoft SQL Server Management Studio, MySQL and phpMyAdmin, Python pandas (and numpy) and I'm sure many more pieces of analysis software. It's probably (but not guaranteed) to be compatible with SAS, Stata, Matlab, and other software.
 
 Likewise, the JSON file is widely-compatible, but it's probably more useful for developers than for data scientists. If you're experiencing issues with the CSV file, try using the JSON.
 
