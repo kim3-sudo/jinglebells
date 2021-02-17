@@ -12,4 +12,10 @@ The MySQL file is compatible with MySQL 5 or later. It might be compatible with 
 
 The Microsoft Excel file is provided only for your convenience, but it is not officially supported. Thus, it is entirely community supported. You may contribute fixes to the file.
 
+An RDS file is also provided if you are using R. To use this, run the following line in your R console or in your R script to load in the data as `jinglebells`.
+
+```R
+jinglebells <- readRDS(url('https://github.com/kim3-sudo/jinglebells/blob/master/jinglebells.rds?raw=true'))
+```
+
 If you need variable descriptors, please see the [VARIABLES.md](https://github.com/kim3-sudo/jinglebells/blob/master/VARIABLES.md) document. It contains most of the encodings and variables.
